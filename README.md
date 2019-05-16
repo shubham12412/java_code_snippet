@@ -19,7 +19,7 @@ Arrays.sort(intervals, (i1, i2) -> i1.start - i2.start);
 			}
 		};
 ```
-better use lambda expression \
+better use lambda expression 
 ##### (o1,o2 -> {})
 
 
