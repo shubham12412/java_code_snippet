@@ -27,5 +27,7 @@ better use lambda expression
 https://leetcode.com/submissions/detail/229290672/  6ms \
 https://leetcode.com/submissions/detail/229289635/ 38ms
 
+https://stackoverflow.com/questions/24294846/performance-difference-between-java-8-lambdas-and-anonymous-inner-classes
+
 
 (4)
