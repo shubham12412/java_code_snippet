@@ -22,6 +22,10 @@ Arrays.sort(intervals, (i1, i2) -> i1[0] - i2[0]);       // here i1,i2 is one di
 ```
 better use lambda expression 
 ##### (o1,o2 -> {})
+#### NOTE: but ***anonymous inner class*** solution is faster compared to lambda ,,,, need to explore ???? find example below
+
+https://leetcode.com/submissions/detail/229290672/  6ms \
+https://leetcode.com/submissions/detail/229289635/ 38ms
 
 
 (4)
