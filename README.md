@@ -5,7 +5,7 @@ code snippet for java
 Collections.emptyList();
 
 (2)import java.util.Arrays;\
-Arrays.sort(array);\
+Arrays.sort(intervals);\
 Arrays.sort(intervals, (i1, i2) -> i1.start - i2.start);
 
 (3)import java.util.Comparator; \
